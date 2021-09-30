@@ -12,7 +12,7 @@ const App = () => {
   };
   return (
     <div>
-      <h1>We are learning React js from Here</h1>
+      <h1>Updated working</h1>
       <h1>{name}</h1>
       <button onClick={handleChange}>Join</button>
       <h1>We are learning React js from Here</h1>
